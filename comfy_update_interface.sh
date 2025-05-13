@@ -1,6 +1,6 @@
 cd /teamspace/studios/this_studio/ComfyUI
 
-pip install -r requirements.txt
+pip install -r requirements.txt 
 
 pip install sentencepiece
 

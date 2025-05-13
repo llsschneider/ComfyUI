@@ -1,5 +1,5 @@
 #Update Models
-
+ 
 #CHECKPOINTS
 #wget -c https://huggingface.co/LeoSchneiderBR/fav_models/resolve/main/bigLove_xl3.safetensors -P ./models/checkpoints/
 wget -c https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/resolve/main/split_files/diffusion_models/wan2.1_i2v_720p_14B_fp16.safetensors -P ./models/diffusion_models/
