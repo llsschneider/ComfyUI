@@ -1,7 +1,7 @@
 #Update Models
  
 #CHECKPOINTS
-#wget -c https://huggingface.co/LeoSchneiderBR/fav_models/resolve/main/bigLove_xl3.safetensors -P ./models/checkpoints/
+wget -c https://huggingface.co/LeoSchneiderBR/fav_models/resolve/main/bigLove_xl3.safetensors -P ./models/checkpoints/
 wget -c https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/resolve/main/split_files/diffusion_models/wan2.1_i2v_720p_14B_fp16.safetensors -P ./models/diffusion_models/
 #wget -c https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/resolve/main/split_files/diffusion_models/wan2.1_i2v_480p_14B_fp16.safetensors -P ./models/diffusion_models/
 wget -c https://huggingface.co/Comfy-Org/HunyuanVideo_repackaged/resolve/main/split_files/diffusion_models/hunyuan_video_v2_replace_image_to_video_720p_bf16.safetensors -P ./models/diffusion_models/
@@ -25,10 +25,10 @@ wget -c https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/resolve/main
 #wget -c https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/resolve/main/split_files/text_encoders/umt5_xxl_fp8_e4m3fn_scaled.safetensors -P ./models/text_encoders/
 
 #LORAS - Para usar junto com o Big Love
-#wget -c https://huggingface.co/LeoSchneiderBR/fav_models/resolve/main/dmd2_sdxl_4step_lora.safetensors -P ./models/loras/
-#wget -c https://huggingface.co/LeoSchneiderBR/fav_models/resolve/main/subtle-lighting1-xl25.safetensors -P ./models/loras/
-#wget -c https://huggingface.co/LeoSchneiderBR/fav_models/resolve/main/subtle-rayness2-xl25.safetensors -P ./models/loras/
-#wget -c https://huggingface.co/LeoSchneiderBR/fav_models/resolve/main/subtle-spreadpussy-xl25.safetensors -P ./models/loras/
-#wget -c https://huggingface.co/LeoSchneiderBR/fav_models/resolve/main/subtle-ultrares1-xl25.safetensors -P ./models/loras/
-#wget -c https://huggingface.co/LeoSchneiderBR/fav_models/resolve/main/tainster-com-style-cumshot-cum-pony-V1.safetensors -P ./models/loras/
-#wget -c https://huggingface.co/LeoSchneiderBR/fav_models/resolve/main/breasts_slider_v1.safetensors -P ./models/loras/
+wget -c https://huggingface.co/LeoSchneiderBR/fav_models/resolve/main/dmd2_sdxl_4step_lora.safetensors -P ./models/loras/
+wget -c https://huggingface.co/LeoSchneiderBR/fav_models/resolve/main/subtle-lighting1-xl25.safetensors -P ./models/loras/
+wget -c https://huggingface.co/LeoSchneiderBR/fav_models/resolve/main/subtle-rayness2-xl25.safetensors -P ./models/loras/
+wget -c https://huggingface.co/LeoSchneiderBR/fav_models/resolve/main/subtle-spreadpussy-xl25.safetensors -P ./models/loras/
+wget -c https://huggingface.co/LeoSchneiderBR/fav_models/resolve/main/subtle-ultrares1-xl25.safetensors -P ./models/loras/
+wget -c https://huggingface.co/LeoSchneiderBR/fav_models/resolve/main/tainster-com-style-cumshot-cum-pony-V1.safetensors -P ./models/loras/
+wget -c https://huggingface.co/LeoSchneiderBR/fav_models/resolve/main/breasts_slider_v1.safetensors -P ./models/loras/
